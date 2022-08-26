@@ -1,31 +1,9 @@
-# desarrolloweb
-Curso esencial de HTML y CSS
-Este es el inicio de tu carrera como Desarrollador Web, empezarás aprendiendo HTML y CSS para la creación de contenidos, en el nivel 2 aprenderás de componentes y en 3 sobre layouts.
 
-Setup
-Logo de Google Chrome
-Google Chrome
-Chrome va a ser el navegador que utilizaremos en el curso por su extenso soporte de nuevos estándares y herramientas de desarrollo avanzadas y de amigable uso.
-
-Logo del editor de código Visual Studio Code
-Visual Studio Code
-Visual Studio Code es el editor de texto más popular y potente del mercado actualmente, su fácil uso y la capacidad de extenderlo por medio de plugins lo hace el complemento perfecto para cualquier programador sin importar el lenguaje en el que se desemvuelva.
-
-Logo de Figma
-Figma
-Figma es una la herramienta más popular en la actualidad para entregar diseños a los desarrolladores para su implementación por su fácil uso porque puede ser usado directamente desde el navegador.
-
-Logo de Github
-GitHub
-Así como en Facebook te encuentran tus amigos, en Github te encuentran otras programadoras y programadores de todo el mundo, en vez de subir fotos de tus viajes aquí subes tu código y puedes elegir hacerlo “open source” o guardarlo de manera privada, Github será esencial para almacenar tu futuro portafolio.
-
-“Este es el inicio de tu carrera como Desarrollador Web”
-
-Leonidas Esteban
-
-Conceptos esenciales del Desarrollo Web
+#### “Conceptos esenciales del Desarrollo Webb”
+```
 Qué es HTML
-Hyper Text Markup Language o Lenguaje de marcas Hipertexto. Es el componente más básico de la web. Define el significado y la estructura del contenido. const name = 'your name'
+```
+####Hyper Text Markup Language o Lenguaje de marcas Hipertexto. Es el componente más básico de la web. Define el significado y la estructura del contenido. const name = 'your name'
 
 <!DOCTYPE html>
 <html lang="en">
