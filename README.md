@@ -1,11 +1,11 @@
 
 #### “Conceptos esenciales del Desarrollo Webb”
 ```
+Hyper Text Markup Language o Lenguaje de marcas Hipertexto. Es el componente más básico de la web. Define el significado y la estructura del contenido. const name = 'your name'
 Qué es HTML
-```
-####Hyper Text Markup Language o Lenguaje de marcas Hipertexto. Es el componente más básico de la web. Define el significado y la estructura del contenido. const name = 'your name'
+```Hyper Text Markup Language o Lenguaje de marcas Hipertexto. Es el componente más básico de la web. Define el significado y la estructura del contenido. const name = 'your name'
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
